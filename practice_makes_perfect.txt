@@ -4,16 +4,20 @@ https://github.com/euigyum/tutorial_gits
 
 
 커밋과 푸쉬를 위한 임시 txt 파일입니다.
+ => 수정하는 연습을 하고 있습니다.
 
 내용은 다음과 같습니다.
 
 #name
 Euigyum David Kim
+ => Given name : Euigyum / David
+ => Family name : Kim
 
 #pronouns
 He / Him / His
 
 #status
 university students
+ => Full-time students at Sogang University
 
 --- 이상 마칩니다.
