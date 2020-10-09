@@ -1,0 +1,19 @@
+저장소를 생성했습니다.
+
+https://github.com/euigyum/tutorial_gits
+
+
+커밋과 푸쉬를 위한 임시 txt 파일입니다.
+
+내용은 다음과 같습니다.
+
+#name
+Euigyum David Kim
+
+#pronouns
+He / Him / His
+
+#status
+university students
+
+--- 이상 마칩니다.
