@@ -1,1 +1,9 @@
-hello I am Euigyum
+# Introduction
+
+Hello,
+
+I am Euigyum Kim.
+
+This is a test self-introduction for getting used to Git and Github.
+
+Cheers!
